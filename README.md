@@ -1,4 +1,4 @@
-## loopback-connector-firebase
+## lb-connector-firebase
 
 Firebase connector for loopback v3
 
@@ -12,7 +12,7 @@ When prompted, respond as follows:
 
     ? Enter the data-source name: firebase
     ? Select the connector for firebase: Other
-    ? Enter the connector's module name: lb-connector-firebase
+    ? Enter the connector's module name: @syncu.be/lb-connector-firebase
     ? Install lb-connector-firebase (Y/n): Y
 
 Add to your datasources.json file the following:
